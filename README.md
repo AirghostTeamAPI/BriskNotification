@@ -120,24 +120,45 @@ In this third Sprint, we created an Admin Web interface with access to statistic
 
 ### [BriskNotificationFolService](https://github.com/AirghostTeamAPI/BriskNotificationFolService)
 
-1. Inside the directory '.\BriskNotificationUserService/config', create a file **'default.json'**
+1. Inside the directory '.\BriskNotificationFolService\config', create a file **'default.json'**
 
     ![](https://media.discordapp.net/attachments/829118904005558292/963870080305881129/unknown.png)
 
 2. Inside the **'default.json'** file, add the following key:
    * ``{"mongoURI": "bank's credential (URI)"}``
 
-3. Inside the directory '.\BriskNotificationApp\Back-end\', create a file **'.env'**
+3. Inside the directory '.\BriskNotificationFolService\', create a file **'.env'**
 
     ![](https://cdn.discordapp.com/attachments/829118904005558292/963874291542290462/unknown.png)
 
 4. Inside the **'.env'** file, add the following key:
     * ``jwtSecret = jwt's secret token``
+    * ``mongoURI = bank's credential (URI)``
 
 5. Open a **new terminal** and execute this comands in sequence:
+    
+    * ``yarn install``
+    * `` yarn server``
 
+### [BriskNotificationUserService](https://github.com/AirghostTeamAPI/BriskNotificationUserService)
 
-    * ``cd .\Back-end\``
+1. Inside the directory '.\BriskNotificationUserService\config', create a file **'default.json'**
+
+    ![](https://media.discordapp.net/attachments/829118904005558292/963870080305881129/unknown.png)
+
+2. Inside the **'default.json'** file, add the following key:
+   * ``{"mongoURI": "bank's credential (URI)"}``
+
+3. Inside the directory '.\BriskNotificationUserService\', create a file **'.env'**
+
+    ![](https://cdn.discordapp.com/attachments/829118904005558292/963874291542290462/unknown.png)
+
+4. Inside the **'.env'** file, add the following key:
+    * ``jwtSecret = jwt's secret token``
+    * ``mongoURI = bank's credential (URI)``
+
+5. Open a **new terminal** and execute this comands in sequence:
+    
     * ``yarn install``
     * `` yarn server``
 
