@@ -117,7 +117,10 @@ In this third Sprint, we created an Admin Web interface with access to statistic
 # Instalation and Execute
 
 ## Back-end
-1. Inside the directory '.\BriskNotificationApp\Back-end\config', create a file **'default.json'**
+
+### [BriskNotificationFolService](https://github.com/AirghostTeamAPI/BriskNotificationFolService)
+
+1. Inside the directory '.\BriskNotificationUserService/config', create a file **'default.json'**
 
     ![](https://media.discordapp.net/attachments/829118904005558292/963870080305881129/unknown.png)
 
