@@ -122,14 +122,14 @@ In this third Sprint, we created an Admin Web interface with access to statistic
 
 1. Inside the directory '.\BriskNotificationFolService\config', create a file **'default.json'**
 
-    ![](https://media.discordapp.net/attachments/829118904005558292/963870080305881129/unknown.png)
+    ![](https://media.discordapp.net/attachments/829118904005558292/983199908452499476/unknown.png)
 
 2. Inside the **'default.json'** file, add the following key:
    * ``{"mongoURI": "bank's credential (URI)"}``
 
 3. Inside the directory '.\BriskNotificationFolService\', create a file **'.env'**
 
-    ![](https://cdn.discordapp.com/attachments/829118904005558292/963874291542290462/unknown.png)
+    ![](https://media.discordapp.net/attachments/829118904005558292/983199861589565470/unknown.png)
 
 4. Inside the **'.env'** file, add the following key:
     * ``jwtSecret = jwt's secret token``
@@ -144,14 +144,14 @@ In this third Sprint, we created an Admin Web interface with access to statistic
 
 1. Inside the directory '.\BriskNotificationUserService\config', create a file **'default.json'**
 
-    ![](https://media.discordapp.net/attachments/829118904005558292/963870080305881129/unknown.png)
+    ![](https://media.discordapp.net/attachments/829118904005558292/983199908452499476/unknown.png)
 
 2. Inside the **'default.json'** file, add the following key:
    * ``{"mongoURI": "bank's credential (URI)"}``
 
 3. Inside the directory '.\BriskNotificationUserService\', create a file **'.env'**
 
-    ![](https://cdn.discordapp.com/attachments/829118904005558292/963874291542290462/unknown.png)
+    ![](https://media.discordapp.net/attachments/829118904005558292/983199861589565470/unknown.png)
 
 4. Inside the **'.env'** file, add the following key:
     * ``jwtSecret = jwt's secret token``
@@ -165,6 +165,15 @@ In this third Sprint, we created an Admin Web interface with access to statistic
 ## Front-end
 1. Open a **new terminal** and execute this comands in sequence:
     * ``cd .\Front-end\``
+    * ``npm install``   
+    * ``npm start``
+  
+## Admin Web Interface
+
+### [BriskNotifcationInterfaceWebAdmin](https://github.com/AirghostTeamAPI/BriskNotifcationInterfaceWebAdmin)
+
+1. Open a **new terminal** and execute this comands in sequence:
+
     * ``npm install``   
     * ``npm start``
 
