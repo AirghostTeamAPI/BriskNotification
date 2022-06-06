@@ -28,8 +28,9 @@
 | 2 | <a href="#Technologies">Technologies</a>| 
 | 3 | <a href="#sprint-1---20220414">Sprint 1</a>|
 | 4 | <a href="#sprint-2---20220515">Sprint 2</a>|
-| 5 | <a href="#Instalation-and-Execute">Instalation and Execute</a>| 
-| 6 |<a href="#User-Manual">User Manual</a>|
+| 5 | <a href="#sprint-3---20220605">Sprint 3 :sparkles: **New!**</a>
+| 6 | <a href="#Instalation-and-Execute">Instalation and Execute</a>| 
+| 7 |<a href="#User-Manual">User Manual</a>|
 
 # Technologies
 
