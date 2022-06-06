@@ -1,0 +1,12 @@
+[submodule "BriskNotificationApp"]
+	path = BriskNotificationApp
+	url = https://github.com/AirghostTeamAPI/BriskNotificationApp
+[submodule "BriskNotificationFolService"]
+	path = BriskNotificationFolService
+	url = https://github.com/AirghostTeamAPI/BriskNotificationFolService
+[submodule "BriskNotificationUserService"]
+	path = BriskNotificationUserService
+	url = https://github.com/AirghostTeamAPI/BriskNotificationUserService
+[submodule "BriskNotifcationInterfaceWebAdmin"]
+	path = BriskNotifcationInterfaceWebAdmin
+	url = https://github.com/AirghostTeamAPI/BriskNotifcationInterfaceWebAdmin
