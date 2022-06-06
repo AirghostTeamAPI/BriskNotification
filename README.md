@@ -20,6 +20,9 @@
 |<img src="https://media.discordapp.net/attachments/829118904005558292/983184294711263262/2.png?width=473&height=473" width="300"/>|<img src="https://media.discordapp.net/attachments/829118904005558292/983184295088754838/3.png?width=473&height=473" width="300"/>|<img src="https://media.discordapp.net/attachments/829118904005558292/983184295420108810/4.png?width=473&height=473" width="300"/>|
 |---|---|---|
 
+# About Brisk Notification App
+An app that facilitates standard procedures for drivers in the event of a problem with their vehicle. In the application, he will always have warnings and recommendations notifications (named FOLs)  coming directly from the responsible company related with your vehicles.
+
 # Sumary
 
 |  | Topics |
